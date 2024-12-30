@@ -32,45 +32,7 @@
 
 ---
 
-<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
-
-<br>
-
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
-
- ---
- 
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
-
----
-
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmbuvii%2Fjuni21&template=https%3A%2F%2Fgithub.com%2Fmbuvii%2Fjuni21.git#"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
----
-
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
-
----
-
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
-
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
-
----
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-`Released date:- 2023.08.24`
-<br>
-`latest updated date:- 2024.09.07`
