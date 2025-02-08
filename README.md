@@ -75,7 +75,3 @@ Powered by **[Baileys](https://github.com/WhiskeySockets/Baileys)**
 - **Version:** 2.1.5  
 - **Release Date:** August 24, 2023  
 - **Latest Update:** January 16, 2025  
-
-![License](https://img.shields.io/github/license/techflare384/PRABATH-MD?color=green&label=License&style=plastic)
-
----
