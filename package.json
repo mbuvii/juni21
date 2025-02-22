@@ -1,6 +1,6 @@
 {
     "name": "MDWABOT",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "description": "P-MD is a Powerful Whatsapp bot.  👨‍💻❤️",
     "main": "start.js",
     "scripts": {
@@ -26,7 +26,7 @@
         "@sl-code-lords/wabetainfo": "1.2.0",
         "@tobyg74/tiktok-api-dl": "1.0.13",
         "@vitalets/google-translate-api": "9.2.0",
-        "@whiskeysockets/baileys": "git+https://gitlab.com/prabathLK/btn-baileys.git",
+        "@whiskeysockets/baileys": "6.7.13",
         "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "6.2.0",
@@ -64,7 +64,7 @@
         "imaginesdk": "latest",
         "imgur": "latest",
         "is-standard-emoji": "1.0.0",
-        "jimp": "^0.22.12",
+        "jimp": "^0.16.1",
         "jspdf": "^2.5.1",
         "lodash": "^4.17.21",
         "mathjs": "^12.0.0",
